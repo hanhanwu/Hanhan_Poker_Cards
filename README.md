@@ -26,3 +26,8 @@ When did I start to freeze my heart and hide it into books? How did I become so 
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/my_guess.png" width="300" height="400" />
 </p>
 
+## 狼贝
+<p align="center">
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/%E7%8B%BC%E7%8B%88.png" width="300" height="400" />
+</p>
+
