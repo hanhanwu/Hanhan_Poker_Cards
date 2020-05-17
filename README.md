@@ -16,7 +16,6 @@
 </p>
 
 ## Numb
-When did I start to freeze my heart and hide it into books? How did I become so numb?
 <p align="center">
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/numb_heart.png" width="300" height="400" />
 </p>
@@ -34,5 +33,10 @@ When did I start to freeze my heart and hide it into books? How did I become so 
 ## Secret Man
 <p align="center">
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/secret%20man.png" width="300" height="400" />
+</p>
+
+## Odysseus
+<p align="center">
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/Odysseus.png" width="300" height="400" />
 </p>
 
