@@ -2,7 +2,7 @@
 
 ## Sunlight
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/sunlight.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/sunlight.png" width="350" height="500" />
 </p>
 
 ## A Cat's Intellgence
@@ -12,35 +12,35 @@
 
 ## Stay Home 2020
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/stay_home_2020.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/stay_home_2020.png" width="350" height="500" />
 </p>
 
 ## Numb
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/numb_heart.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/numb_heart.png" width="350" height="500" />
 </p>
 
 ## My Guess
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/my_guess.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/my_guess.png" width="350" height="500" />
 </p>
 
 ## 狼贝
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/%E7%8B%BC%E8%B4%9D.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/%E7%8B%BC%E8%B4%9D.png" width="350" height="500" />
 </p>
 
 ## Secret Man
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/secret%20man.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/secret%20man.png" width="350" height="500" />
 </p>
 
 ## Odysseus
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/Odysseus.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/Odysseus.png" width="350" height="500" />
 </p>
 
 ## Right Hand is Still in a Pain
 <p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/right_hand_pain.png" width="300" height="400" />
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/right_hand_pain.png" width="350" height="500" />
 </p>
