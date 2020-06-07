@@ -40,3 +40,7 @@
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/Odysseus.png" width="300" height="400" />
 </p>
 
+## Right Hand is Still in a Pain
+<p align="center">
+<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/right_hand_pain.png" width="300" height="400" />
+</p>
