@@ -54,8 +54,3 @@
 <p align="center">
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/forgot_to_mute.png" width="350" height="500" />
 </p>
-
-## Shining in Another Color
-<p align="center">
-<img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/shinning_in_another_color.png" width="350" height="500" />
-</p>
