@@ -18,8 +18,8 @@
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/stories/images/3.png" width="350" height="500" />
 </p>
 
-* 🌻 One day, the second box suddenly opened itself in fornt of Eddy, a pink fire jumped out. The fire looked full of passion and even made Eddy forgot the scent around him at that moment. So, he decided to take the fire together and put it on a pile of wood, hoping the fire could stay there. Sometimes, he would sit near the fire, looking at it, fastinated by its color and energy. However, he would start to miss the scent when it's fading away while he's getting close to the fire, so he decided to toss some ice cubes into the fire when he felt it's weakening the scent. And later he would add a few pieces of wood into the fire when he felt the fire was fainting.
-* 🌻 But the pink fire never needs any wood or ice, it can be burning beautifully out of its own will. The inconsistent temperature and treatment only hurt its happiness and broke its heart. Finally it decided to leave, locking itself into the box again to recover.
+* 🌻 One day, the second box suddenly opened itself in front of Eddy, a pink fire jumped out. The fire looked full of passion and even made Eddy forgot the scent around him at that moment. So, he decided to take the fire together and put it on a pile of wood, hoping the fire could stay there. Sometimes, he would sit near the fire, looking at it, fastinated by its color and energy. However, he would start to miss the scent when it's fading away while he's getting close to the fire, so he decided to toss some ice cubes into the fire when he felt it's weakening the scent. And later he would add a few pieces of wood into the fire when he felt the fire was fainting.
+* 🌻 But the pink fire never needs any wood or ice, it can be burning beautifully out of its own will. The inconsistent temperature and treatment only hurt its happiness and broke its heart. Finally it decided to leave, locking itself inside of the box to recover.
 
 
 <p align="center">
