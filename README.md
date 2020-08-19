@@ -60,7 +60,10 @@
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/completed_one.png" width="350" height="500" />
 </p>
 
-## Not Plan B
+## [Not Plan B][1]
 <p align="center">
 <img src="https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/gallery/not_your_planB.png" width="600" height="800" />
 </p>
+
+
+[1]:https://github.com/hanhanwu/Hanhan_Poker_Cards/blob/master/stories/images/not_your_planB.md
